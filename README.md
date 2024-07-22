@@ -1,6 +1,4 @@
 # Ecommerce-Product-Page
-# E-commerce Product Page
-
 ## Description
 
 This project presents a fully-featured e-commerce product page designed to provide a seamless and engaging shopping experience. Built with HTML, CSS, and JavaScript, it includes a variety of interactive elements and a responsive layout to ensure compatibility across different devices and screen sizes.
