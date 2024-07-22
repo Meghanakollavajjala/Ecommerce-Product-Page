@@ -31,5 +31,5 @@ This project presents a fully-featured e-commerce product page designed to provi
    git clone https://github.com/yourusername/e-commerce-product-page.git
 
 ## Live Demo
-Check out the live demo of the project [here]{}.
+Check out the live demo of the project
 
